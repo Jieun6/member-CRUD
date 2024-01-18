@@ -29,8 +29,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const MemberBox = (props) => {
-    console.log('beerBox/props: ', props);
-    console.log('beerBox/props.title: ', props.title);
+    // console.log('beerBox/props: ', props);
+    // console.log('beerBox/props.title: ', props.title);
     return(
         <>
             <tr key={props.key}>

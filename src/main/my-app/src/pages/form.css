@@ -13,21 +13,19 @@
     justify-content: center;
 }
 
-
-
 .custom-form .form-control {
     width: 700px;  /* 원하는 폼 길이로 조절 */
 }
 
 .create-member-button {
-    width: 45%;  /* 버튼의 너비 */
+    width: 46%;  /* 버튼의 너비 */
     height: 50px;  /* 버튼의 높이 */
     margin-left: 0px;
-    margin-right: 70px;
+    margin-right: 55px;
 }
 
 .create-member-button-back {
-    width: 45%;  /* 버튼의 너비 */
+    width: 46%;  /* 버튼의 너비 */
     height: 50px;  /* 버튼의 높이 */
 }
 
@@ -37,12 +35,14 @@
     margin-left: 0px;
     margin-right: 0px;
 }
+
 .detail-member-button-list {
     width: 30%;  /* 버튼의 너비 */
     height: 50px;  /* 버튼의 높이 */
     margin-left: 35px;
     margin-right: 35px;
 }
+
 .detail-member-button-delete {
     width: 30%;  /* 버튼의 너비 */
     height: 50px;  /* 버튼의 높이 */

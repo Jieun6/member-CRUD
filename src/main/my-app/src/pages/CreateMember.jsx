@@ -52,7 +52,6 @@ const CreateMember = () => {
         <>
             <div className="title">멤버 등록 폼</div>
             <div className="form-container">
-                <div className="sub-title">멤버 입력</div>
                 <Form className="custom-form">
                     <Form.Group className="mb-3" controlId="formBasicEmail">
                         <Form.Label>이름</Form.Label>
